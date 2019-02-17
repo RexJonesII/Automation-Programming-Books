@@ -10,6 +10,6 @@ All Books Available In Paperback and eBook At https://tinyurl.com/Rex-Allen-Jone
 
 4. (Part 2) Java 4 Selenium WebDriver
 
-5.
+5. (Part 1) Selenium WebDriver For Functional Automation Testing
 
-6.
+6. Getting Started With TestNG (A Java Test Framework)
