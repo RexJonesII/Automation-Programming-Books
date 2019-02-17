@@ -3,8 +3,10 @@
 All Books Available In Paperback and eBook At https://tinyurl.com/Rex-Allen-Jones-Books
 
 1. (Part 1) You Must Learn VBScript for QTP UFT
+https://tinyurl.com/Pt1-VBScript-UFT-QTP
 
 2. (Part 2) You Must Learn VBScript for QTP UFT
+https://tinyurl.com/Pt2-VBScript-UFT-QTP
 
 3. (Part 1) Java 4 Selenium WebDriver
 https://tinyurl.com/Pt1-Java-4-Selenium
