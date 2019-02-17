@@ -2,13 +2,13 @@
 
 All Books Available In Paperback and eBook At https://tinyurl.com/Rex-Allen-Jones-Books
 
-1. 
+1. (Part 1) You Must Learn VBScript for QTP UFT
 
-2. 
+2. (Part 2) You Must Learn VBScript for QTP UFT
 
-3. 
+3. (Part 1) Java 4 Selenium WebDriver
 
-4. 
+4. (Part 2) Java 4 Selenium WebDriver
 
 5.
 
