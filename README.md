@@ -1,6 +1,6 @@
 # Automation-Programming-Books
 
-All Books Available In Paperback and eBook At https://tinyurl.com/Rex-Allen-Jones-Books
+All Books Available In Paperback and eBook at https://tinyurl.com/Rex-Allen-Jones-Books
 
 1. (Part 1) You Must Learn VBScript for QTP UFT
 https://tinyurl.com/Pt1-VBScript-UFT-QTP
